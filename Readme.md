@@ -1,5 +1,5 @@
 # Algorithm: Intersection Manager
-## A 4 way Intersection Manager That Minimizes the Average Waiting Time of Each Car at a crossroad, Implementation in C++
+**A 4 way Intersection Manager That Minimizes the Average Waiting Time of Each Car at a crossroad, Implementation in C++**
 
 ## Description
 - 使用之程式語言：**< C++ >**
